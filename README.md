@@ -1,0 +1,1 @@
+This report analyzes pizza sales data, leveraging MySQL for data extraction and manipulation, and Power BI for visualization. Key insights include total revenue, average order value, and sales trends, alongside breakdowns by pizza category and size. The interactive dashboards facilitate detailed analysis of sales performance and patterns
